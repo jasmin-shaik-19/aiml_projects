@@ -1,0 +1,11 @@
+Date,City,Temperature_C,Humidity_%,Condition
+01-01-2025,Hyderbad,28,60,Sunny
+02-01-2025,Vijayawada,29,62,Sunny
+03-01-2025,Viskhapatnam,,58,Cloudy
+04-01-2025,Kakinada,31,55,Cloudy
+05-01-2025,Banglore,,57,Rainy
+06-01-2025,Mumbai,33,,Rainy
+07-01-2025,Chennai,34,61,Sunny
+08-01-2025,Rajamundry,32,63,Cloudy
+09-01-2025,Eluru,,64,Rainy
+10-01-2025,Anakapalli,29,62,Sunny
